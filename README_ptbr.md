@@ -7,7 +7,13 @@
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ---
-## :pencil2:Tecnologias
+##:scroll:Sobre
+
+O projeto **tdd-python** foi criado dentro do curso **"<a href="https://cursos.alura.com.br/course/tdd-com-python">Testes automatizados: TDD com Python</a>"** com o intuito de colocar 
+em prática todo o centeúdo estudado durante o curso.
+ 
+---
+##:pencil2:Tecnologias
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -16,19 +22,19 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 
 ---
-### :open_file_folder: Como baixar o projeto
+###:open_file_folder:Como baixar o projeto
 
 
 ```bash
     
     # Clonar o repositório
-    $ git clone https://github.com/jeanhrsouza/learning-geopandas.git
+    $ git clone https://github.com/jeanhrsouza/tdd-python.git
     
     # Entrar no diretório
-    $ cd learning-geopandas
+    $ cd tdd-python
     
-    # Iniciar o projeto
-    $ jupyter notebook
+    # Rodar os testes
+    $ pytest
 
 ```
 ---
